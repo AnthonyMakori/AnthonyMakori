@@ -15,28 +15,28 @@
 - 🔭 I’m passionate about:  
   **Software Development | Blockchain | Systems Engineering | Web & Mobile Apps**
 
-- 🌱 Currently exploring deeper into:  
-  **Blockchain, Web3, and Machine Learning**
+- 🌱 Currently exploring:  
+  **Blockchain, Web3, Machine Learning**
 
-- 👀 Interests:  
-  **Full-Stack Dev, Smart Contracts, Decentralized Apps, Cloud Platforms**
+- 👀 Interests include:  
+  **Full-Stack Development, Smart Contracts, Decentralized Apps, Cloud Platforms**
 
 - 🤝 Open to collaborate on:
   - 💡 Innovative tech solutions
-  - 🌍 Open-source contributions
+  - 🌍 Open-source projects
   - 🔗 Blockchain/Web3 platforms
-  - 📚 Developer communities & mentorship
+  - 📚 Community mentorship
 
-- 📫 **Reach me via**:
-  - ✉️ [anthonymakori2@gmail.com](mailto:anthonymakori2@gmail.com)  
-  - ✉️ [antonymakori2019@gmail.com](mailto:antonymakori2019@gmail.com)
+- 📫 Reach me:
+  - 📧 [anthonymakori2@gmail.com](mailto:anthonymakori2@gmail.com)  
+  - 📧 [antonymakori2019@gmail.com](mailto:antonymakori2019@gmail.com)
 
-- 😄 **Pronouns**: He / Him  
-- ⚡ **Fun Fact**: I’m constantly learning something new and love solving real-world problems with code!
+- 😄 Pronouns: He / Him  
+- ⚡ Fun Fact: I'm constantly learning and love solving real-world problems with code!
 
 ---
 
-## 🛠️ My Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -44,13 +44,13 @@
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 
-### 🧰 Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
-### 🛠️ Tools & Platforms
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
@@ -62,14 +62,14 @@
 
 ## 🧠 Currently Working On
 
-- ⚙️ Blockchain-based decentralized applications (dApps)
-- 🤖 AI/ML projects using Python
-- 🌐 Full-stack systems with Laravel + Next.js
-- 👥 Community-driven open-source contributions
+- ⚙️ Decentralized applications (dApps)  
+- 🤖 Machine Learning projects with Python  
+- 🌐 Full-stack systems (Laravel + Next.js)  
+- 🌱 Open-source contributions
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnthonyMakori&show_icons=true&theme=radical" width="47%" />
@@ -93,15 +93,23 @@
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="mailto:anthonymakori2@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anthony-makori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/anthonymakori" target="_blank"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="mailto:anthonymakori2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anthony-makori" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/anthonymakori" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Graph
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnthonyMakori&theme=react-dark" />
