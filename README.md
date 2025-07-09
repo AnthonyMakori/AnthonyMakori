@@ -1,19 +1,11 @@
 <h1 align="center">Hi there, I'm Anthony Sanny 👋</h1>
-<h3 align="center">🚀 Software Engineer | 💡 Creative Technologist | 🌍 Tech-for-Good Advocate</h3>
-
----
-
-<p align="center">
-  <a href="https://github.com/AnthonyMakori">
-    <img src="https://komarev.com/ghpvc/?username=AnthonyMakori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+<h3 align="center">🚀 Full-Stack Developer | 💡 Creative Technologist | 🌍 Tech-for-Good Advocate</h3>
 
 ---
 
 ### 💬 About Me
 
-```javascript
+```js
 const Anthony = {
   code: ["JavaScript", "TypeScript", "PHP", "Python"],
   frameworks: ["Next.js", "React", "Laravel", "Node.js"],
@@ -22,49 +14,80 @@ const Anthony = {
   currentlyLearning: ["Machine Learning", "GoLang"],
   funFact: "I design software solutions the way an artist paints a masterpiece."
 };
-🌟 My Mission
-To engineer robust, scalable, and beautiful solutions that empower businesses, uplift communities, and shape the future of technology.
+```
 
-🛠️ Tech Stack
-Languages & Frameworks:
+---
 
+### 🌟 My Mission
 
+> To engineer robust, scalable, and beautiful solutions that empower businesses, uplift communities, and shape the future of technology.
 
+---
 
+### 🛠️ Tech Stack
 
-Frameworks & Libraries:
+**Languages:**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+**Frameworks & Libraries:**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+**Tools & Platforms:**
 
-Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
+---
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnthonyMakori&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMakori&theme=radical" />
+</p>
 
+---
 
-📈 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnthonyMakori&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyMakori&theme=radical" /> </p>
-🔭 Current Projects
-🌐 Building smart web apps with Next.js & Laravel
+### 🔭 Current Projects
 
-📱 Designing a cross-platform app that bridges education and opportunity
+- 🌐 Building **smart web apps** with **Next.js & Laravel**
+- 📱 Designing a **cross-platform app** that bridges **education and opportunity**
+- 🌱 Contributing to **open-source tools** that support developers across Africa
 
-🌱 Contributing to open-source tools that support developers across Africa
+---
 
-📫 Let's Connect
-LinkedIn: linkedin.com/in/anthony-makori
+### 📫 Let's Connect
 
-Portfolio: anthonysanny.dev (customize as needed)
+- 💼 [LinkedIn](https://linkedin.com/in/anthony-makori)
+- 🌍 [Portfolio](https://anthonysanny.dev)
+- ✉️ `anthonysanny[at]gmail.com`
 
-Email: anthonysanny[at]gmail.com
+---
 
-❤️ Open Source Believer
-"I believe code is meant to be shared, not shelved."
+### ❤️ Open Source Believer
 
-✨ A Quote to Live By
-"Code is not just syntax – it's creativity, logic, and impact combined."
-— Anthony Sanny
+> _"I believe code is meant to be shared, not shelved."_
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
+---
+
+### ✨ A Quote to Live By
+
+> _"Code is not just syntax – it's creativity, logic, and impact combined."_  
+> — **Anthony Sanny**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
